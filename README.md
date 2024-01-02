@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Jamie
 
+🏫 I'm a 3rd-year computer science student at the University of Glasgow.
+
+🌱 I’m currently learning about...
+ 
+- Robotics and autonomous vehicles
+- Cybersecurity and functional safety
+- Computer vision and deep learning
+
+🏎️ I also lead the Driverless team at [UGRacing](https://ugracing.co.uk/) - over 25 undergraduate students developing software for an autonomous racecar. Last summer we placed 3rd out of 20 teams at an international competition held at Silverstone, setting us up for an exciting 2024 season!
 <!--
 **jamiecrobb/jamiecrobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
